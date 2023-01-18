@@ -7,6 +7,7 @@
 - [Agent](https://github.com/bolt-observer/agent) - Our LiquidOps agent for node monitoring and management 
 - [Explorer](https://bolt.observer/explorer/) - Our lightning explorer with advanced filtering 
 - [LiquidOps](https://boltobserver.substack.com/p/introducing-liquidops) - Liquidity management and monitoring solution 
+- [lnregtest](https://github.com/bolt-observer/lnregtest) - our maintained fork of lnregtest that works with current versions
 
 ## Other interesting things
 - We run our own nostr relay at `wss://nostr-01.bolt.observer `
