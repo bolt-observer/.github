@@ -11,6 +11,4 @@
 - [lnregtest](https://github.com/bolt-observer/lnregtest) - our maintained fork of lnregtest with current versions and CLN support
 
 ## Other interesting things
-- We run our own nostr relay at `wss://nostr-01.bolt.observer`
-- We run a federated lightning address server with several domains available for free at [lnaddress.me](https://lnaddress.me/)
 - Our [blog](https://boltobserver.substack.com/)
